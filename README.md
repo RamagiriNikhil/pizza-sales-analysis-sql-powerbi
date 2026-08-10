@@ -167,13 +167,13 @@ The following DAX measures were created:
 
 ## Executive Dashboard
 
-![Dashboard Page 1](Dashboard%20Screenshots/Dashboard_Page1.png)
+![Dashboard Page 1](03_Dashboard_Screenshots/Dashboard_Page1.png)
 
 ---
 
 ## Product Performance Dashboard
 
-![Dashboard Page 2](Dashboard%20Screenshots/Dashboard_Page2.png)
+![Dashboard Page 2](03_Dashboard_Screenshots/Dashboard_Page2.png)
 
 ---
 
